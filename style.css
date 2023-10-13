@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#joke {
+    font-size: 24px;
+    margin: 20px;
+}
+#getJokeButton {
+    padding: 10px 20px;
+    font-size: 18px;
+}
